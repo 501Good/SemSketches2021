@@ -127,3 +127,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Transformers model
+sentence_ru_cased_pipe_L-12_H-768_A-12_pt/0_Transformer/pytorch_model.bin
+sentence_ru_cased_pipe_L-12_H-768_A-12_pt/0_Transformer/vocab.txt
